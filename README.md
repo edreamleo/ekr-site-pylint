@@ -1,1 +1,3 @@
-A repo based on site-customize/pylint, for my own private study.
+The repo exists in my site-customize/pylint folder, for my private study.
+
+
